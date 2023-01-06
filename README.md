@@ -81,3 +81,4 @@ Using Analog with tap to show:
 - [kubecz3k](https://godotengine.org/qa/user/kubecz3k) First version of code analog.
 - [gswashburn](https://godotengine.org/qa/user/gswashburn) Port code analog to Godot 3.
 - [kenney.kl](https://www.kenney.nl/assets/onscreen-controls) Art for analog and D-Pad.
+"# mobile-stealth" 
